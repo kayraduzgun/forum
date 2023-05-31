@@ -1,5 +1,5 @@
 module.exports = {
-    token: "MTEwNzIzNzM2NzQyNjg1NTAxMw.GvLKjY.2Ia_SnWCIgtKfIL7wqUzjhBw22EYynz2NZ9PY0", 
+    token: "MTEwNzIzNzM2NzQyNjg1NTAxMw.GFwXz8.B9HBeBTE-sTVQwaF03iLTnEBlwjDeMnBE1Mhio", 
     prefix: ".",
     Footer: "BEDNEİ TR TEAM",
     guildID: "1098201434723463198",
